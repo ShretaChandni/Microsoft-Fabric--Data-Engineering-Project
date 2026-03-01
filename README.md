@@ -8,6 +8,8 @@ Ingesting Earthquake events data from [usgs](https://www.usgs.gov/programs/earth
 
 Technologies Used: Python, PySpark, Fabric (Data Engineering, Data Factory, Power BI)
 
+<img width="1351" height="757" alt="image" src="https://github.com/user-attachments/assets/43ad0c73-8512-4ef5-b421-e1f4ab7becc5" />
+
 Getting Started
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To get started with this project, download the notebooks in the repository and follow the guidance provided in the YouTube tutorial.
